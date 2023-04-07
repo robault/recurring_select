@@ -5,5 +5,5 @@ gem "pg"
 
 gem "jquery-rails"
 
-gem "rails", "~> 5.2"
-gem "sass-rails", "~> 5.0"
+gem "rails", "~> 7.0.4"
+gem "sass-rails"
